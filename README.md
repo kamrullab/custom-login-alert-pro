@@ -21,7 +21,7 @@ Includes **country detection with flag emoji**, **device info**, **dashboard log
 
 | Admin Settings Panel | Login Alert Example | Dashboard History |
 |----------------------|---------------------|-------------------|
-| ![settings](https://kamrul.us/img/settings.png) | ![alert](https://kamrul.us/img/alert.png) | ![history](https://kamrul.us/img/history.png) |
+| ![wp-admin-admin-php-2025-04-29-20_42_28](https://github.com/user-attachments/assets/a4cc117f-4b45-4044-9cd4-6896d4ba503d)| ![Untitled](https://github.com/user-attachments/assets/f0dec826-bdb0-48c8-a984-420ad3e49b35)| ![wp-admin-2025-04-29-20_43_06](https://github.com/user-attachments/assets/3679c3a9-9489-4e24-9b9d-86c330f510c1)|
 
 ---
 
